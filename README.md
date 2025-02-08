@@ -77,7 +77,7 @@ VOXIE addresses these pain points by providing **real-time reasoning, context aw
 |--------|-------------|
 | **Voice Recognition** | VOSK / OpenAI Whisper |
 | **Wake Word Detection** | Porcupine / Snowboy |
-| **NLP & Intent Recognition** | **LLM-powered NLP (GPT-4, Llama, or Claude)** |
+| **NLP & Intent Recognition** | **LLM-powered NLP (GPT-4, Llama, Mistal or Claude)** |
 | **Task Orchestration** | Multi-Agent AI Framework |
 | **Context-Awareness** | Real-Time Sales Velocity Tracking |
 | **Speech Synthesis** | Coqui TTS / ElevenLabs |
