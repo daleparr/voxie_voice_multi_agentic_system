@@ -88,36 +88,6 @@ VOXIE addresses these pain points by providing **real-time reasoning, context aw
 
 ---
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-organization/voxie.git
-   cd voxie
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Application:**
-   ```bash
-   python app.py
-   ```
-
-4. **Test Wake Word Detection:**
-   ```bash
-   python wake_word_voxie.py
-   ```
-
-5. **Run the Multi-Agent Task Engine:**
-   ```bash
-   python task_engine_voxie.py
-   ```
-
----
-
 ## Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
