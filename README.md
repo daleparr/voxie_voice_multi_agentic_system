@@ -20,7 +20,17 @@ VOXIE leverages real-time sales data to detect velocity trends and predict deman
 
 - **Proactive replenishment** to avoid stockouts or overstocking.  
 - **Enhanced responsiveness** to spikes in demand during promotions or peak hours.  
-- **Smarter inventory management** that aligns with sales trends, reducing waste.  
+- **Smarter inventory management** that aligns with sales trends, reducing waste.
+
+---
+### **Role-Level Insights & Customization**  
+VOXIE provides tailored insights based on specific retail roles, ensuring that every team member gets relevant, actionable data:  
+
+- **Managers**: High-level store performance, workforce coordination, and predictive stock insights.  
+- **Shop Floor Teams**: Department-specific restocking alerts, customer inquiries, and aisle zoning guidance.  
+- **Cashiers**: Instant product availability checks, promotions, and pricing verification.  
+- **Warehousing Teams**: Backroom stock management, receiving alerts, and fulfillment prioritization.  
+---
 
 ### **Human-Centric Design**  
 VOXIE is intentionally designed to feel personal and assistive. By prioritizing human-AI collaboration, the system:  
