@@ -15,6 +15,21 @@ Retail store operations are becoming increasingly complex. Floor staff face grow
 VOXIE addresses these pain points by providing **real-time reasoning, context awareness, and multi-agentic collaboration**, ensuring seamless task execution and better customer experiences.
 
 ---
+### **Real-Time Sales Velocity & Demand Tracking**  
+VOXIE leverages real-time sales data to detect velocity trends and predict demand patterns. This capability ensures:  
+
+- **Proactive replenishment** to avoid stockouts or overstocking.  
+- **Enhanced responsiveness** to spikes in demand during promotions or peak hours.  
+- **Smarter inventory management** that aligns with sales trends, reducing waste.  
+
+### **Human-Centric Design**  
+VOXIE is intentionally designed to feel personal and assistive. By prioritizing human-AI collaboration, the system:  
+
+- **Keeps employees at the center** of decision-making.  
+- **Enhances, rather than replaces,** the shop floor experience.  
+- **Uses natural voice interactions, proactive assistance,** and adaptability to foster trust and seamless adoption.  
+
+---
 
 ## Key Differentiators
 
