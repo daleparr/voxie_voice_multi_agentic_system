@@ -63,39 +63,28 @@ VOXIE addresses these pain points by providing **real-time reasoning, context aw
 - Guided training and knowledge-sharing via AI recommendations.
 - Hands-free support for seamless customer interactions.
 
----
+### **5. Flexible LLM Deployment**  
+- Choice between **small-LLMs (e.g., Mistral, Phi-2)** for privacy-sensitive, on-premise processing or cloud-based models for scalability.  
+- **Cost-efficient deployment options**, balancing AI performance with infrastructure expenses.  
+- **Adaptable AI processing**, enabling real-time decision-making while meeting regulatory and data security requirements.  
 
-## Implementation Roadmap
-
-1. **Phase 1: Pilot Deployment**
-   - Implement VOXIE in select retail locations.
-   - Gather feedback on usability, task coordination, and customer satisfaction.
-
-2. **Phase 2: Context-Awareness Enhancement**
-   - Integrate advanced real-time sales velocity tracking.
-   - Deploy adaptive learning algorithms to enhance task prioritization.
-
-3. **Phase 3: System Integration**
-   - Connect VOXIE with existing POS systems and workforce management tools.
-   - Ensure seamless communication between AI agents and human staff.
-
-4. **Phase 4: Multi-Agent Optimization**
-   - Expand VOXIE’s multi-agent capabilities for advanced task collaboration.
-   - Include predictive models for stock replenishment and customer demand.
-
-5. **Phase 5: Enterprise Scaling**
-   - Roll out VOXIE across multiple store locations.
-   - Customize features based on industry-specific needs.
 
 ---
 
-## Technical Stack
+## 🏗️ Technical Stack
 
-- **Frameworks:** FastAPI, PyTorch, LangChain.
-- **Speech Processing:** Google Cloud Text-to-Speech, Vosk.
-- **Data Storage & Integration:** Pandas, PostgreSQL, APIs.
-- **Hardware:** Barcode scanners, handheld devices, staff earpieces.
-- **Hosting:** AWS/GCP/Azure.
+| Layer | Technology |
+|--------|-------------|
+| **Voice Recognition** | VOSK / OpenAI Whisper |
+| **Wake Word Detection** | Porcupine / Snowboy |
+| **NLP & Intent Recognition** | **LLM-powered NLP (GPT-4, Llama, or Claude)** |
+| **Task Orchestration** | Multi-Agent AI Framework |
+| **Context-Awareness** | Real-Time Sales Velocity Tracking |
+| **Speech Synthesis** | Coqui TTS / ElevenLabs |
+| **System Integration** | POS, Inventory, Workforce APIs |
+| **Cloud & Hosting** | AWS Lambda / GCP Cloud Functions |
+| **Database** | PostgreSQL / Firestore |
+| **Edge Devices** | Handheld Scanners, Smart Headsets |
 
 ---
 
